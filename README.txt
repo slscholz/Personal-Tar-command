@@ -1,4 +1,4 @@
-Project 2: jtar
+Project: jtar
 Samantha Scholz
 Completed March 11, 2021
 
