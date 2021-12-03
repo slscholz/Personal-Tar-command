@@ -1,6 +1,6 @@
 Project 2: jtar
 Samantha Scholz
-Due March 11, 2021
+Completed March 11, 2021
 
 File:
       -records name, protection mode, size, time stamp, and directory or file 
