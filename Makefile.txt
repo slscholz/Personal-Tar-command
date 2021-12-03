@@ -1,0 +1,15 @@
+CXX = c++
+
+jtar :	jtar.cpp file.o
+	$(CXX)  jtar.cpp file.o -o jtar
+
+file.o : file.cpp file.h
+	$(CXX) file.cpp -c
+
+
+clean:
+	rm *.o
+
+pristine:
+	rm *.o
+	touch *
